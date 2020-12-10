@@ -1,0 +1,48 @@
+def wsd(a):
+    a1 = str(a)
+    j = 1
+    wsd = 0
+    for i in a1 :
+        wsd = (int(i) * j) + wsd
+        j += 1
+    print(wsd , end = ' ')
+
+
+wsd(923689)
+wsd(466938)
+wsd(1240)
+wsd(59)
+wsd(1)
+wsd(434542183)
+wsd(1838)
+wsd(73507)
+wsd(85)
+wsd(1276)
+wsd(72138)
+wsd(2892273)
+wsd(15)
+wsd(445302726)
+wsd(145330)
+wsd(60030)
+wsd(3773)
+wsd(24454)
+wsd(40150882)
+wsd(1806171)
+wsd(20620940)
+wsd(341171)
+wsd(17119)
+wsd(703)
+wsd(166095251)
+wsd(515)
+wsd(6911761)
+wsd(196436)
+wsd(105922)
+wsd(6828116)
+wsd(1625)
+wsd(1634)
+wsd(820403)
+wsd(60679)
+wsd(1699)
+wsd(419)
+wsd(33381367)
+wsd(1367)
